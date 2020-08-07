@@ -1,0 +1,17 @@
+{
+  "name": "fivemfr-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot made to FiveM:FR community.",
+  "main": "fivemfrbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nylander",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "canvas": "^2.6.1",
+    "discord.js": "^11.5.1",
+    "ping-monitor": "^0.4.4"
+  }
+}
